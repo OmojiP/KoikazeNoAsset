@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a4d7dfa7e86864888987293ccc735e, type: 3}
+  m_Name: TE1
+  m_EditorClassIdentifier: 
+  nextStoryEvent: {fileID: 11400000, guid: 4ca7025d2d3f760429b353b0b19ea083, type: 2}
+  characterCell: {fileID: 11400000, guid: 5980d509eab625241b2687ec93e09ced, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf89cf77d6251344189ef091ef690fe1, type: 3}
+  m_Name: EP1 Pro
+  m_EditorClassIdentifier: 
+  firstEvent: {fileID: 11400000, guid: 03a45637f77d35c4e8789fc758150052, type: 2}
+  episodeNumber: 1
+  episodeName: "\u3042\u306E\u5B50\u306E\u30E1\u30AC\u30CD"
+  firstBackGroundSprite: {fileID: 21300000, guid: d8aab414789447d41aecfad55c6f52cb, type: 3}

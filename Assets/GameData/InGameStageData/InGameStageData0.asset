@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0852292c8941e54d890c10c02378790, type: 3}
+  m_Name: InGameStageData0
+  m_EditorClassIdentifier: 
+  timeLimit: 30
+  missionSprite: {fileID: 21300000, guid: 5e58b409920536741972c0c5917e1cae, type: 3}
+  missionInGameSprite: {fileID: 21300000, guid: fb83330dc615d994bb6dc30ee3fbeabd, type: 3}
+  backGroundSprite: {fileID: 21300000, guid: d8aab414789447d41aecfad55c6f52cb, type: 3}
+  character: {fileID: 11400000, guid: a815c62515c4983499adf7544b5c81bb, type: 2}
+  gridBlockData: {fileID: 11400000, guid: b2b368f9d5e2a6c4a94414018b878fda, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2057458f2516094789bfff5578dc95c, type: 3}
+  m_Name: Page2
+  m_EditorClassIdentifier: 
+  stillSprites:
+  - {fileID: 21300000, guid: 01909725aaf1fd544a036d362c91ca83, type: 3}
+  - {fileID: 21300000, guid: 900f78c50083f9744affc9d53b717e5e, type: 3}
+  - {fileID: 21300000, guid: 360abc0c394bc9c4abf467b525bd2cd4, type: 3}
+  - {fileID: 21300000, guid: a1ef86bcde076a14d9f726b1a392ded4, type: 3}
+  buttonSprite: {fileID: 21300000, guid: 01909725aaf1fd544a036d362c91ca83, type: 3}

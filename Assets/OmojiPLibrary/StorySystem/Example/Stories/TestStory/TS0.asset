@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2db78d1ae4198744ab1052a23725f22, type: 3}
+  m_Name: TS0
+  m_EditorClassIdentifier: 
+  characterTypesAndAnimations:
+  - storyViewType: 1
+    characterAnimationType: 4
+  isNamePlateActive: 0
+  characterName: "\uFF1F\uFF1F\uFF1F"
+  messageContext: "\u3061\u3087\u3063\u3068\u307E\u3061\u306A\uFF01\uFF01"
+  textAnimationType: 0
+  boxAnimationType: 0

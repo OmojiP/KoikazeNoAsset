@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a4d7dfa7e86864888987293ccc735e, type: 3}
+  m_Name: 8 SAE EP1Suc
+  m_EditorClassIdentifier: 
+  nextStoryEvent: {fileID: 11400000, guid: 79b0f1ccf05630a478e0b6d6d63f7cd5, type: 2}
+  characterCell:
+    characterTypesAndAnimations: []
+    isNamePlateActive: 1
+    characterName: "\u604B\u98A8"
+    messageContext: "\u30DA\u30B3\u30EA"
+    textAnimationType: 0
+    boxAnimationType: 0
+    seType: 0
+    fontSizeType: 38

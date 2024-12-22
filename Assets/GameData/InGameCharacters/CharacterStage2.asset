@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee281d2d1372cb4f9541c0de10557d4, type: 3}
+  m_Name: CharacterStage2
+  m_EditorClassIdentifier: 
+  animationNormalState: Idle
+  animationClearState: Idle
+  animationFailedState: Idle
+  characterPrefab: {fileID: 2647650257217489287, guid: 105dfb1a54e18234e80a58dbd487de83, type: 3}

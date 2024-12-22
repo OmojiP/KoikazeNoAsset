@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Block
+  - Wall
+  - Ball Collect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackCharacter
+    uniqueID: 1677615465
+    locked: 0
+  - name: Block
+    uniqueID: 309576555
+    locked: 0
+  - name: KazeSan
+    uniqueID: 910857431
+    locked: 0
+  - name: Ball
+    uniqueID: 975491247
+    locked: 0
+  - name: UI
+    uniqueID: 73477837
+    locked: 0
+  - name: UniversizeUI
+    uniqueID: 2788049635
+    locked: 0
+  - name: LoadingUI
+    uniqueID: 3406378115
+    locked: 0

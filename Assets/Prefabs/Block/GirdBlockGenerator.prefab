@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8935717206722796938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4886578994695318642}
+  - component: {fileID: 8432653421178432572}
+  m_Layer: 0
+  m_Name: GirdBlockGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4886578994695318642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8935717206722796938}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8432653421178432572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8935717206722796938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14aa7c6e3aecace41aa87b2ec9a08a5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slicedSprites:
+  - {fileID: -700442790, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1819754082, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 2096066036, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 238197964, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -808325372, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -849414828, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 801755793, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -530139303, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1226013124, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 737695002, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1147188961, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -515966221, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 1111200600, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 16132362, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -107084843, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 2103603784, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1005698351, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 1198450018, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -547500062, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 478476132, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 8084545, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 1073467941, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 584284974, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1123483278, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1429291737, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 626076872, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 1443931511, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -421592175, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: -1798562432, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  - {fileID: 113271156, guid: 67554573b2b5f41769c87b8604149596, type: 3}
+  blockPrefab: {fileID: 2656011645149794408, guid: 071d6360f2f2e554bae64ce494832c9a, type: 3}
+  gridSize: {x: 10, y: 3}
+  spaceSize: {x: 0.7, y: 0.8}
+  spriteSize: 0.5

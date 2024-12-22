@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a4d7dfa7e86864888987293ccc735e, type: 3}
+  m_Name: 3 Op SAE
+  m_EditorClassIdentifier: 
+  nextStoryEvent: {fileID: 11400000, guid: 3040cd3f93e42f64bad2f702ac7763d9, type: 2}
+  characterCell:
+    characterTypesAndAnimations:
+    - storyViewType: 2
+      characterAnimationType: 8
+    isNamePlateActive: 1
+    characterName: "\u3074\u3085\u308B\u308B\u3093"
+    messageContext: "\u3084\u3041\u3001\u50D5\u306F\u604B\u3068\u98A8\u3092\u53F8\u308B\u5996\u7CBE\u3074\u3085\u308B\u308B\u3093\u3055\uFF01\n\u541B\u306E\u604B\u306B\u5BFE\u3059\u308B\u5F37\u3044\u6C17\u6301\u3061\u306B\u547C\u3070\u308C\u3066\u6765\u305F\u3088"
+    textAnimationType: 0
+    boxAnimationType: 0
+    seType: 0
+    fontSizeType: 38

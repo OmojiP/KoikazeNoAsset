@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a4d7dfa7e86864888987293ccc735e, type: 3}
+  m_Name: 6 SAE EP3Suc
+  m_EditorClassIdentifier: 
+  nextStoryEvent: {fileID: 11400000, guid: 2d5498fc569ffd645abae573612ca638, type: 2}
+  characterCell:
+    characterTypesAndAnimations: []
+    isNamePlateActive: 0
+    characterName: 
+    messageContext: "\u50D5\u306E\u76EE\u306E\u524D\u306B\u5E83\u304C\u3063\u3066\u3044\u305F\u306E\u306F\u3001\u3074\u3085\u308B\u308B\u3093\u304C\u304A\u3053\u3057\u305F\u5F37\u98A8\u3067\u3081\u304F\u3089\u308C\u305F\u30B9\u30AB\u30FC\u30C8...\u306E\u4E2D\u306B\u3042\u308B\u604B\u98A8\u3055\u3093\u306E\u30D1\u30F3\u30C6\u30A3\u3060\u3063\u305F\u3002"
+    textAnimationType: 0
+    boxAnimationType: 0
+    seType: 0
+    fontSizeType: 38
